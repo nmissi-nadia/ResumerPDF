@@ -28,7 +28,7 @@ ResumerPDF est une application interactive permettant d'extraire, de résumer et
 
 1. **Cloner le projet** :
    ```bash
-   git clone https://github.com/VOTRE_NOM/ResumerPDF.git
+   git clone https://github.com/nmissi-nadia/ResumerPDF.git
    cd ResumerPDF
    ```
 
