@@ -1,0 +1,12 @@
+mysql-connector-python==9.6.0
+pdfplumber
+pandas
+matplotlib
+seaborn
+wordcloud
+transformers
+torch
+evaluate
+rouge-score
+Flask
+Flask-SQLAlchemy
